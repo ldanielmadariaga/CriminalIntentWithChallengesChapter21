@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fragment_container" type="id"/>
+    <item name="crime_title" type="id"/>
+    <item name="crime_date" type="id"/>
+    <item name="crime_solved" type="id"/>
+    <item name="crime_list_item_titleTextView" type="id"/>
+    <item name="crime_list_item_dateTextView" type="id"/>
+    <item name="crime_list_item_solvedCheckBox" type="id"/>
+    <item name="list_item_crime" type="id"/>
+    <item name="view_pager" type="id"/>
+    <item name="dialog_date_datePicker" type="id"/>
+    <item name="menu_item_new_crime" type="id"/>
+    <item name="menu_item_show_subtitle" type="id"/>
+    <item name="menu_item_delete_crime" type="id"/>
+    <item name="crime_camera_surfaceView" type="id"/>
+    <item name="crime_camera_takePictureButton" type="id"/>
+    <item name="crime_imageButton" type="id"/>
+    <item name="crime_camera_progressContainer" type="id"/>
+    <item name="crime_imageView" type="id"/>
+    <item name="crime_suspectButton" type="id"/>
+    <item name="crime_reportButton" type="id"/>
+    <item name="crime_callSuspectButton" type="id"/>
+
+</resources>
